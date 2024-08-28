@@ -98,8 +98,8 @@ Please ensure you interact with this address to utilize the platform's features.
 
 For inquiries or support related to the P2P Student Leading Platform, please contact:
 
-- **Email:** support@p2pstudentlead.com
-- **Phone:** +1-234-567-8901
+- **Email:** sathic059@gmail.com
+- **Phone:** +917575954770
 - **Website:** [www.p2pstudentlead.com](http://www.p2pstudentlead.com)
 
 Thank you for your interest in the P2P Student Leading Platform!

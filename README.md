@@ -9,14 +9,9 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 ## Flowchart
 
 Below is a simplified flowchart illustrating the core functionalities:
+# P2P-Student-Leading-Platform
+![image](https://github.com/user-attachments/assets/99a36736-b900-41bd-9e68-96df3718637a)
 
-graph TD;
-    A[Student Registration] --> B[Blockchain Record Creation];
-    B --> C[Create/Join Study Group];
-    C --> D[Smart Contract Deployment];
-    D --> E[Decentralized Verification];
-    E --> F[Participation Tracking];
-    F --> G[Incentives and Rewards];
 
 
 

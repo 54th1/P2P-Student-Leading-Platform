@@ -10,23 +10,22 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 
 Below is a simplified flowchart illustrating the core functionalities:
 
-1. **Student Registration**
-   - Students register with their name.
-   - The system records and verifies the registration.
+graph TD;
+    Start --> Student_Registration;
+    Student_Registration --> Blockchain_Record_Creation;
+    Blockchain_Record_Creation --> Create_Join_Study_Group;
+    Create_Join_Study_Group --> Decentralized_Verification;
+    Decentralized_Verification --> Participation_Tracking;
+    Participation_Tracking --> End;
 
-2. **Group Creation**
-   - Registered students create new study groups.
-   - The creator is added as a group member.
+    style Start fill:#f9f,stroke:#333,stroke-width:4px;
+    style Student_Registration fill:#bbf,stroke:#333,stroke-width:2px;
+    style Blockchain_Record_Creation fill:#bbf,stroke:#333,stroke-width:2px;
+    style Create_Join_Study_Group fill:#bbf,stroke:#333,stroke-width:2px;
+    style Decentralized_Verification fill:#bbf,stroke:#333,stroke-width:2px;
+    style Participation_Tracking fill:#bbf,stroke:#333,stroke-width:2px;
+    style End fill:#f9f,stroke:#333,stroke-width:4px;
 
-3. **Join Group**
-   - Registered students can join existing groups.
-   - Membership is updated.
-
-4. **View Group Members**
-   - Students can view the list of members in a specific group.
-
-5. **Retrieve Student Info**
-   - Access and view student profile details and registration status.
 
 ## Contract Address
 

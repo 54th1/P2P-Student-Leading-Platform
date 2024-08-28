@@ -11,20 +11,13 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 Below is a simplified flowchart illustrating the core functionalities:
 
 graph TD;
-    Start --> Student_Registration;
-    Student_Registration --> Blockchain_Record_Creation;
-    Blockchain_Record_Creation --> Create_Join_Study_Group;
-    Create_Join_Study_Group --> Decentralized_Verification;
-    Decentralized_Verification --> Participation_Tracking;
-    Participation_Tracking --> End;
+    A[Student Registration] --> B[Blockchain Record Creation];
+    B --> C[Create/Join Study Group];
+    C --> D[Smart Contract Deployment];
+    D --> E[Decentralized Verification];
+    E --> F[Participation Tracking];
+    F --> G[Incentives and Rewards];
 
-    style Start fill:#f9f,stroke:#333,stroke-width:4px;
-    style Student_Registration fill:#bbf,stroke:#333,stroke-width:2px;
-    style Blockchain_Record_Creation fill:#bbf,stroke:#333,stroke-width:2px;
-    style Create_Join_Study_Group fill:#bbf,stroke:#333,stroke-width:2px;
-    style Decentralized_Verification fill:#bbf,stroke:#333,stroke-width:2px;
-    style Participation_Tracking fill:#bbf,stroke:#333,stroke-width:2px;
-    style End fill:#f9f,stroke:#333,stroke-width:4px;
 
 
 ## Contract Address

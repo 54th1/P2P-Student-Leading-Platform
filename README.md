@@ -74,10 +74,11 @@ The smart contract for the P2P Student Leading Platform is deployed on the Ether
 ```
 0xA1b2C3D4E5F67890aBcDeFgHiJkLmNoPqRsTuVwX
 ```
+Here's the information in plain text format:
 
-Please ensure you interact with this address to utilize the platform's features.
+---
 
-## Future Scope
+**Future Scope**
 
 1. **Enhanced Features**
    - Implement reputation systems and incentives for active users.
@@ -95,7 +96,7 @@ Please ensure you interact with this address to utilize the platform's features.
    - Add role-based access controls.
    - Strengthen security measures to protect user data.
 
-## Contact Details
+**Contact Details**
 
 For inquiries or support related to the P2P Student Leading Platform, please contact:
 

@@ -7,16 +7,63 @@
 The **P2P Student Leading Platform** aims to transform the way students interact and collaborate in their educational journey. By leveraging blockchain technology, our platform offers a decentralized, secure, and transparent environment for students to register, create and join study groups, and track their participation. Our vision is to foster a collaborative learning community where students are empowered to lead and learn from each other.
 
 ## Flowchart
+# P2P Student Learning Platform
 
-flowchart TD
-    A[Start: User accesses the platform] --> B[Input: User enters personal details (name, email, etc.)]
-    B --> C[Process: The system verifies the user's identity]
-    C -->|Valid| D[Output: User is registered on the blockchain]
-    C -->|Invalid| E[Output: Error message is shown]
-    D --> F[End: Registration confirmation is sent to the user]
-    E --> F
-
-
+```plaintext
++--------------------------------------------------------+
+|                P2P Student Learning Platform           |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  1. User Registration                                   |
+|  - Users sign up and create their profiles.            |
+|  - User information is stored securely on the          |
+|    blockchain.                                         |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  2. Group Creation/Joining                             |
+|  - Registered users can create or join study groups.   |
+|  - Smart contracts manage group creation and           |
+|    membership.                                         |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  3. Participation Tracking                              |
+|  - User activities and participation are tracked.      |
+|  - Blockchain ensures transparency and immutability.   |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  4. Learning & Collaboration                            |
+|  - Users collaborate and share knowledge within groups.|
+|  - Platform promotes peer-to-peer learning.            |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  5. Reputation & Rewards                                |
+|  - Reputation system incentivizes active participation.|
+|  - AI integration for personalized learning.           |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  6. Future Scope & Expansion                            |
+|  - Mobile apps, global expansion, enhanced security.   |
+|  - Continuous improvement and feature enhancements.    |
++--------------------------------------------------------+
+                                |
+                                v
++--------------------------------------------------------+
+|  7. Support & Contact Information                       |
+|  - Users can reach out for support via email or phone. |
+|  - Platform continuously updates through the website.  |
++--------------------------------------------------------+
 
 
 ## Contract Address

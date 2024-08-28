@@ -8,7 +8,6 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 
 ## Flowchart
 
-Below is a simplified flowchart illustrating the core functionalities:
 flowchart TD
     A[Start: User accesses the platform] --> B[Input: User enters personal details (name, email, etc.)]
     B --> C[Process: The system verifies the user's identity]

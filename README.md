@@ -1,5 +1,6 @@
 # P2P-Student-Leading-Platform
-![image](https://github.com/user-attachments/assets/99a36736-b900-41bd-9e68-96df3718637a)
+![image](https://github.com/user-attachments/assets/f194ebd8-5fcd-4636-908d-450a0b6953fa)
+
 
 
 ## Vision

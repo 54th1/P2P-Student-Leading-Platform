@@ -9,45 +9,13 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 ## Flowchart
 
 Below is a simplified flowchart illustrating the core functionalities:
-+---------------------------+
-|           Start            |
-+---------------------------+
-            |
-            v
-+---------------------------+
-|   Student Registration     |
-| (Secure & Immutable Data)  |
-+---------------------------+
-            |
-            v
-+---------------------------+
-| Blockchain Record Creation |
-|   (Immutable & Transparent)|
-+---------------------------+
-            |
-            v
-+---------------------------+
-| Create/Join Study Group    |
-| (Smart Contracts for       |
-|   Group Management)        |
-+---------------------------+
-            |
-            v
-+---------------------------+
-| Decentralized Verification |
-|   (Tamper-Proof Records)   |
-+---------------------------+
-            |
-            v
-+---------------------------+
-| Participation Tracking     |
-|  (Automated & Incentivized)|
-+---------------------------+
-            |
-            v
-+---------------------------+
-|            End             |
-+---------------------------+
+flowchart TD
+    A[Start: User accesses the platform] --> B[Input: User enters personal details (name, email, etc.)]
+    B --> C[Process: The system verifies the user's identity]
+    C -->|Valid| D[Output: User is registered on the blockchain]
+    C -->|Invalid| E[Output: Error message is shown]
+    D --> F[End: Registration confirmation is sent to the user]
+    E --> F
 
 
 

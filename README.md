@@ -9,8 +9,45 @@ The **P2P Student Leading Platform** aims to transform the way students interact
 ## Flowchart
 
 Below is a simplified flowchart illustrating the core functionalities:
-# P2P-Student-Leading-Platform
-![image](https://github.com/user-attachments/assets/99a36736-b900-41bd-9e68-96df3718637a)
++---------------------------+
+|           Start            |
++---------------------------+
+            |
+            v
++---------------------------+
+|   Student Registration     |
+| (Secure & Immutable Data)  |
++---------------------------+
+            |
+            v
++---------------------------+
+| Blockchain Record Creation |
+|   (Immutable & Transparent)|
++---------------------------+
+            |
+            v
++---------------------------+
+| Create/Join Study Group    |
+| (Smart Contracts for       |
+|   Group Management)        |
++---------------------------+
+            |
+            v
++---------------------------+
+| Decentralized Verification |
+|   (Tamper-Proof Records)   |
++---------------------------+
+            |
+            v
++---------------------------+
+| Participation Tracking     |
+|  (Automated & Incentivized)|
++---------------------------+
+            |
+            v
++---------------------------+
+|            End             |
++---------------------------+
 
 
 
